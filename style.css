@@ -1,0 +1,233 @@
+#Tnoticia {
+
+    color: rgba(224, 20, 54, 0.966);
+
+
+}
+
+#noticia {
+    font-size: 18px;
+
+}
+
+.big {
+    font-size: 21px;
+
+}
+
+.menu {
+    width: 750px;
+    text-align: right;
+
+}
+
+.tituloh2 {
+    color: rgb(255, 255, 255);
+font-size: 35px;
+}
+
+#Iker {
+    color: rgba(122, 121, 63, 0.938);
+
+}
+
+.imagen {
+    width: 600px;
+
+}
+
+.contenedor {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.realmadrid {
+    width: 100px;
+
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+
+#parrafo1 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1b92f3;
+}
+
+
+.parrafo-especial {
+    font-size: 20px;
+    font-style: italic;
+    color: #4682b4;
+}
+
+
+
+
+#logounity {
+    float: right;
+    width: 250px;
+    height: 190px;
+    padding: 15px 20px;
+}
+
+.conte {
+    width: 1300px;
+    height: 250px;
+    background-color: #1b92f3bb;
+
+}
+
+
+.conte h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    width: 750px;
+
+}
+
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+.unitymenu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    background-color: #fdf9f9;
+    width: 150%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.unitymenu li a {
+    text-decoration: none;
+    color: #4682b4;
+    padding: 30px;
+    display: block;
+
+
+}
+
+.unitymenu li {
+    display: inline-block
+}
+
+.unitymenu li a:hover {
+    background-color: orange;
+
+}
+
+.unitysec {
+    background-color: goldenrod;
+    width: 850px;
+    height: 310px;
+    margin-top: 15px;
+}
+
+
+.unitysec2 {
+    background-color: rgba(218, 199, 32, 0.973);
+    width: 850px;
+    height: 790px;
+    margin-top: 15px;
+}
+
+
+
+#iker9 {
+    float: right;
+    width: 395px;
+    height: 760px;
+    margin-top: -1111px;
+}
+
+#iker8 {
+    float: right;
+    width: 395px;
+    height: 760px;
+    padding: 0;
+    margin-top: -580px;
+}
+
+.seccipa {
+    margin: 10px;
+}
+
+.foopiso {
+
+    justify-content: end;
+    align-content: center;
+}
+
+#unititu {
+    padding: 10px;
+    text-align: center;
+}
+
+#unititu2 {
+    padding: 20px;
+    text-align: center;
+}
+.unitysecU {
+    background-color: goldenrod;
+    width: 850px;
+    height: 590px;
+    margin-top: 15px;
+}
+#iker91 {
+    float: right;
+    width: 395px;
+    height: 760px;
+    margin-top: -500px;
+}
+
+.medall {
+    background-color: rgb(109, 183, 226);
+    width: 850px;
+    height: 390px;
+    margin-top: 15px;
+
+}
+.news {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: space-between;
+}
+.news article {
+    flex: 1;
+    margin: 0 1rem;
+    background-color: #fff;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.news article h2 {
+    margin-top: 0;
+}
+.news article img {
+    max-width: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
